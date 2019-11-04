@@ -24,3 +24,9 @@
     border:2px solid blue;
     background:lightcyan;
 }
+.header{
+    margin:10px auto;
+    padding:10px;
+    text-align: center;
+    font-size:32px;
+}
